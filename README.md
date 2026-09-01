@@ -7,7 +7,7 @@
   </p>
 
   <!-- Live Preview & Action Buttons -->
-  <a href="https://username.github.io/repository-name/" target="_blank">
+  <a href="https://egytoxic.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Preview-View_Website-00D4FF?style=for-the-badge&logoColor=white&labelColor=111118" alt="Live Preview" />
   </a>
   <a href="https://linkedin.com" target="_blank">
