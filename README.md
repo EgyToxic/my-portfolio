@@ -58,4 +58,4 @@ This is my personal interactive portfolio website showcasing my academic backgro
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
+   git clone [https://github.com/EgyToxic/my-portfolio.git](https://github.com/EgyToxic/my-portfolio.git)
